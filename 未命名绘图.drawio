@@ -1,9 +1,39 @@
-<mxfile host="app.diagrams.net" modified="2024-07-19T03:35:57.322Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" version="24.7.1" etag="ZxNRggw8LCNmbQ0AW7dN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-19T03:36:12.243Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="gFKvbAOb3j4NmeVsQguq" version="24.7.1" type="github">
   <diagram name="第 1 页" id="AIAgOsusJvTHaDATjs1O">
-    <mxGraphModel>
+    <mxGraphModel dx="1379" dy="1920" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="bU2op4WGqxvOceNjOvw2-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bU2op4WGqxvOceNjOvw2-2" target="bU2op4WGqxvOceNjOvw2-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-2" value="扫描科目余额表任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-1110" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bU2op4WGqxvOceNjOvw2-4" target="bU2op4WGqxvOceNjOvw2-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-4" value="读取文件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-970" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="bU2op4WGqxvOceNjOvw2-6" target="bU2op4WGqxvOceNjOvw2-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-6" value="只获取1002开头的科目代码，并存好对应的期初余额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-830" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-7" value="通过方法判断每一条科目代码有没有子节点，如果有则删除自身" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="-690" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;size=0.5;" vertex="1" parent="1">
+          <mxGeometry x="500" y="-685" width="20" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="bU2op4WGqxvOceNjOvw2-7" target="bU2op4WGqxvOceNjOvw2-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="bU2op4WGqxvOceNjOvw2-10" value="判断是否有自身开头&lt;div&gt;的科目代码&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="-680" width="130" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
