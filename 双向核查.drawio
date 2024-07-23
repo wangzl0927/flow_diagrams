@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T01:45:28.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="WF5F63Q6_KqbE41wm82e" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T04:02:42.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="7oIcI3lxEQ2ztgBuDMAQ" version="24.7.1" type="github">
   <diagram name="第 1 页" id="pTm7-aRh6tZhciBY1CMp">
-    <mxGraphModel dx="1379" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="891" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -195,16 +195,22 @@
           <mxGeometry x="2042.5" y="617" width="360" height="90" as="geometry" />
         </mxCell>
         <mxCell id="w69S-txHBqApJlsxk6LM-66" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="10" width="1750" height="852" as="geometry" />
+          <mxGeometry x="1110" y="10" width="1780" height="852" as="geometry" />
         </mxCell>
         <mxCell id="w69S-txHBqApJlsxk6LM-67" value="分组已确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="w69S-txHBqApJlsxk6LM-66" vertex="1">
-          <mxGeometry y="20" width="670" height="832" as="geometry" />
+          <mxGeometry y="20" width="700" height="832" as="geometry" />
+        </mxCell>
+        <mxCell id="mTxYmRV6teD1gdhryHkn-6" value="查询条件：对方户名，交易日期范围" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w69S-txHBqApJlsxk6LM-67">
+          <mxGeometry x="240" y="220" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mTxYmRV6teD1gdhryHkn-7" value="按日期分组，将每天每个对方户名的总额查出来，然后进行内存里对比，如果金额相同在内存里打标识" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="w69S-txHBqApJlsxk6LM-67">
+          <mxGeometry x="140" y="290" width="560" height="30" as="geometry" />
         </mxCell>
         <mxCell id="w69S-txHBqApJlsxk6LM-68" value="分组未确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#D6BC15;" parent="w69S-txHBqApJlsxk6LM-66" vertex="1">
-          <mxGeometry x="670" y="20" width="700" height="832" as="geometry" />
+          <mxGeometry x="700" y="20" width="700" height="832" as="geometry" />
         </mxCell>
         <mxCell id="w69S-txHBqApJlsxk6LM-73" value="未确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#D6BC15;" parent="w69S-txHBqApJlsxk6LM-66" vertex="1">
-          <mxGeometry x="1370" y="20" width="380" height="832" as="geometry" />
+          <mxGeometry x="1400" y="20" width="380" height="832" as="geometry" />
         </mxCell>
         <mxCell id="w69S-txHBqApJlsxk6LM-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="w69S-txHBqApJlsxk6LM-73" source="w69S-txHBqApJlsxk6LM-74" target="w69S-txHBqApJlsxk6LM-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
