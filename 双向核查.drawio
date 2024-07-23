@@ -1,72 +1,72 @@
-<mxfile host="app.diagrams.net" modified="2024-07-23T01:44:43.060Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="ADjWvRlyJDyI8IC9bqAl" version="24.7.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-23T01:45:28.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36 Edg/126.0.0.0" etag="WF5F63Q6_KqbE41wm82e" version="24.7.1" type="github">
   <diagram name="第 1 页" id="pTm7-aRh6tZhciBY1CMp">
-    <mxGraphModel dx="1970" dy="1073" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1379" dy="751" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="w69S-txHBqApJlsxk6LM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-1" target="w69S-txHBqApJlsxk6LM-2">
+        <mxCell id="w69S-txHBqApJlsxk6LM-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-1" target="w69S-txHBqApJlsxk6LM-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-1" value="查询子任务表" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-1" value="查询子任务表" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="360" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-2" target="w69S-txHBqApJlsxk6LM-4">
+        <mxCell id="w69S-txHBqApJlsxk6LM-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-2" target="w69S-txHBqApJlsxk6LM-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-2" value="将每个子任务需要的序时账和流水全部查到核查表里" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-2" value="将每个子任务需要的序时账和流水全部查到核查表里" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-4" target="w69S-txHBqApJlsxk6LM-6">
+        <mxCell id="w69S-txHBqApJlsxk6LM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-4" target="w69S-txHBqApJlsxk6LM-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-4" value="查询N条流水表的数据" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-4" value="查询N条流水表的数据" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-6" target="w69S-txHBqApJlsxk6LM-12">
+        <mxCell id="w69S-txHBqApJlsxk6LM-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w69S-txHBqApJlsxk6LM-6" target="w69S-txHBqApJlsxk6LM-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="420" y="660" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-6" value="根据查出来的流水的本方账户名、本方账号、对方户名、交易日期组装查询条件进行查询" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-6" value="根据查出来的流水的本方账户名、本方账号、对方户名、交易日期组装查询条件进行查询" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="355" y="490" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-8" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="520" y="465" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-9" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;&quot; class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;用“（对方户名，科目代码）  in （xxx,xxx）,(xxx,xxx) and   未被关联 ”&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;&quot; class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;方式批量查询核查序时账表里所有相等的数据&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;&quot; class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;并且日期需要注意是否跨月，在内存里处理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;&quot; class=&quot;ne-text&quot;&gt;&lt;font color=&quot;#cf2020&quot; style=&quot;font-size: 14px;&quot;&gt;这一步需要全取到内存里，不然第五步分页会出现漏数据&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-9" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;&quot; class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;用“（对方户名，科目代码）  in （xxx,xxx）,(xxx,xxx) and   未被关联 ”&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;&quot; class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;&amp;nbsp;方式批量查询核查序时账表里所有相等的数据&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;&quot; class=&quot;ne-text&quot;&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;并且日期需要注意是否跨月，在内存里处理&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;&quot; class=&quot;ne-text&quot;&gt;&lt;font color=&quot;#cf2020&quot; style=&quot;font-size: 14px;&quot;&gt;这一步需要全取到内存里，不然第五步分页会出现漏数据&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="530" y="495" width="390" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-12" target="w69S-txHBqApJlsxk6LM-13">
+        <mxCell id="w69S-txHBqApJlsxk6LM-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-12" target="w69S-txHBqApJlsxk6LM-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w69S-txHBqApJlsxk6LM-14">
+        <mxCell id="w69S-txHBqApJlsxk6LM-15" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w69S-txHBqApJlsxk6LM-14" vertex="1" connectable="0">
           <mxGeometry x="-0.0972" y="-1" relative="1" as="geometry">
             <mxPoint x="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-12" target="w69S-txHBqApJlsxk6LM-17">
+        <mxCell id="w69S-txHBqApJlsxk6LM-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-12" target="w69S-txHBqApJlsxk6LM-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-12" value="内存里判断是否1对1匹配上" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-12" value="内存里判断是否1对1匹配上" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="345" y="630" width="150" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-13" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;在内存里标示对应的流水和序时账被关联&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-13" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;在内存里标示对应的流水和序时账被关联&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="590" y="635" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-17" target="w69S-txHBqApJlsxk6LM-19">
+        <mxCell id="w69S-txHBqApJlsxk6LM-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-17" target="w69S-txHBqApJlsxk6LM-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-17" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;更新到核查流水和核查序时账的表为已被关联&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-17" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;更新到核查流水和核查序时账的表为已被关联&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="785" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-19" target="w69S-txHBqApJlsxk6LM-23">
+        <mxCell id="w69S-txHBqApJlsxk6LM-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-19" target="w69S-txHBqApJlsxk6LM-23" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;将流水和序时账放到已确认结果表里&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-19" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;将流水和序时账放到已确认结果表里&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="360" y="925" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-23" target="w69S-txHBqApJlsxk6LM-4">
+        <mxCell id="w69S-txHBqApJlsxk6LM-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="w69S-txHBqApJlsxk6LM-23" target="w69S-txHBqApJlsxk6LM-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="320" y="1050" as="sourcePoint" />
             <mxPoint x="260" y="410" as="targetPoint" />
@@ -76,155 +76,155 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w69S-txHBqApJlsxk6LM-25">
+        <mxCell id="w69S-txHBqApJlsxk6LM-26" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w69S-txHBqApJlsxk6LM-25" vertex="1" connectable="0">
           <mxGeometry x="-0.6584" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-23" value="流水是否还有数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-23" value="流水是否还有数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="345" y="1020" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-27" target="w69S-txHBqApJlsxk6LM-28">
+        <mxCell id="w69S-txHBqApJlsxk6LM-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-27" target="w69S-txHBqApJlsxk6LM-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-27" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;核查流水表  按年月日、对方户名分组并聚合求交易金额&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-27" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;核查流水表  按年月日、对方户名分组并聚合求交易金额&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1170" y="70" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-28" target="w69S-txHBqApJlsxk6LM-30">
+        <mxCell id="w69S-txHBqApJlsxk6LM-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-28" target="w69S-txHBqApJlsxk6LM-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;去核查序时账查对应的，指定日期范围内，并且未被关联过的序时账的交易金额&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-28" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;去核查序时账查对应的，指定日期范围内，并且未被关联过的序时账的交易金额&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1167.5" y="230" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-30" target="w69S-txHBqApJlsxk6LM-32">
+        <mxCell id="w69S-txHBqApJlsxk6LM-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-30" target="w69S-txHBqApJlsxk6LM-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-30" value="判断金额是否一致" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-30" value="判断金额是否一致" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1182.5" y="360" width="145" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;按对方户名、日期查询对应的序时账和流水放到已确认结果里&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-32" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;按对方户名、日期查询对应的序时账和流水放到已确认结果里&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1187.5" y="500" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-34" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="1360" y="475" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-35" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;1.生成组号，赋值展示标识&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;2.对跨月的数据进行打标&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3.判断流水和序时账谁多，&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;如果流水的行数比序时账的多，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;那么序时账要用空行补齐流水的行数，反之亦然&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-35" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;1.生成组号，赋值展示标识&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;2.对跨月的数据进行打标&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;3.判断流水和序时账谁多，&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;如果流水的行数比序时账的多，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;那么序时账要用空行补齐流水的行数，反之亦然&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="1390" y="480" width="360" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" target="w69S-txHBqApJlsxk6LM-37" source="w69S-txHBqApJlsxk6LM-32">
+        <mxCell id="w69S-txHBqApJlsxk6LM-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="w69S-txHBqApJlsxk6LM-32" target="w69S-txHBqApJlsxk6LM-37" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1252.5" y="595" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-37" target="w69S-txHBqApJlsxk6LM-27">
+        <mxCell id="w69S-txHBqApJlsxk6LM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w69S-txHBqApJlsxk6LM-37" target="w69S-txHBqApJlsxk6LM-27" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w69S-txHBqApJlsxk6LM-40">
+        <mxCell id="w69S-txHBqApJlsxk6LM-41" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w69S-txHBqApJlsxk6LM-40" vertex="1" connectable="0">
           <mxGeometry x="-0.8068" y="-1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-37" target="w69S-txHBqApJlsxk6LM-43">
+        <mxCell id="w69S-txHBqApJlsxk6LM-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="w69S-txHBqApJlsxk6LM-37" target="w69S-txHBqApJlsxk6LM-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-65" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w69S-txHBqApJlsxk6LM-64">
+        <mxCell id="w69S-txHBqApJlsxk6LM-65" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w69S-txHBqApJlsxk6LM-64" vertex="1" connectable="0">
           <mxGeometry x="-0.7612" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-37" value="流水是否还有数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-37" value="流水是否还有数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1180" y="630" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-43" target="w69S-txHBqApJlsxk6LM-58">
+        <mxCell id="w69S-txHBqApJlsxk6LM-42" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w69S-txHBqApJlsxk6LM-43" target="w69S-txHBqApJlsxk6LM-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;核查流水表  按年月日、对方户名分组并求count&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-43" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;核查流水表  按年月日、对方户名分组并求count&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1841" y="97" width="170" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-45" target="w69S-txHBqApJlsxk6LM-47">
+        <mxCell id="w69S-txHBqApJlsxk6LM-44" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-45" target="w69S-txHBqApJlsxk6LM-47" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;去核查序时账查对应的，指定日期范围内，并且未被关联过的序时账的count&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-45" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;去核查序时账查对应的，指定日期范围内，并且未被关联过的序时账的count&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1837.5" y="357" width="175" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-47" target="w69S-txHBqApJlsxk6LM-48">
+        <mxCell id="w69S-txHBqApJlsxk6LM-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="w69S-txHBqApJlsxk6LM-47" target="w69S-txHBqApJlsxk6LM-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-61" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w69S-txHBqApJlsxk6LM-46">
+        <mxCell id="w69S-txHBqApJlsxk6LM-61" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w69S-txHBqApJlsxk6LM-46" vertex="1" connectable="0">
           <mxGeometry x="-0.1667" y="1" relative="1" as="geometry">
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-47" value="序时账count&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-47" value="序时账count&amp;gt;0" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1852.5" y="487" width="145" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;按对方户名、日期查询对应的序时账和流水放到未确认结果里&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-48" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;按对方户名、日期查询对应的序时账和流水放到未确认结果里&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1857.5" y="627" width="135" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-48" target="w69S-txHBqApJlsxk6LM-54">
+        <mxCell id="w69S-txHBqApJlsxk6LM-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="w69S-txHBqApJlsxk6LM-48" target="w69S-txHBqApJlsxk6LM-54" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1922.5" y="722" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-54" target="w69S-txHBqApJlsxk6LM-43">
+        <mxCell id="w69S-txHBqApJlsxk6LM-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w69S-txHBqApJlsxk6LM-54" target="w69S-txHBqApJlsxk6LM-43" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w69S-txHBqApJlsxk6LM-52">
+        <mxCell id="w69S-txHBqApJlsxk6LM-53" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w69S-txHBqApJlsxk6LM-52" vertex="1" connectable="0">
           <mxGeometry x="-0.8068" y="-1" relative="1" as="geometry">
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-54" value="流水是否还有数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-54" value="流水是否还有数据" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry x="1850" y="757" width="150" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w69S-txHBqApJlsxk6LM-58" target="w69S-txHBqApJlsxk6LM-45">
+        <mxCell id="w69S-txHBqApJlsxk6LM-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="w69S-txHBqApJlsxk6LM-58" target="w69S-txHBqApJlsxk6LM-45" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-60" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="w69S-txHBqApJlsxk6LM-59">
+        <mxCell id="w69S-txHBqApJlsxk6LM-60" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="w69S-txHBqApJlsxk6LM-59" vertex="1" connectable="0">
           <mxGeometry x="0.1758" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-58" value="count&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-58" value="count&amp;gt;0" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="1879" y="235" width="94" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-62" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-62" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;labelPosition=left;verticalLabelPosition=middle;align=right;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="2012.5" y="602" width="20" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-63" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;1.生成组号，赋值展示标识&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2.判断流水和序时账谁多，&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;如果流水的行数比序时账的多，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;那么序时账要用空行补齐流水的行数，反之亦然&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-63" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;1.生成组号，赋值展示标识&lt;/span&gt;&lt;/div&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot; class=&quot;ne-text&quot;&gt;&lt;span style=&quot;font-size: 16px;&quot;&gt;2.判断流水和序时账谁多，&lt;/span&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;如果流水的行数比序时账的多，&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial; font-size: 16px;&quot;&gt;那么序时账要用空行补齐流水的行数，反之亦然&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="2042.5" y="617" width="360" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-66" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="w69S-txHBqApJlsxk6LM-66" value="Pool" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1110" y="10" width="1750" height="852" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-67" value="分组已确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="w69S-txHBqApJlsxk6LM-66">
+        <mxCell id="w69S-txHBqApJlsxk6LM-67" value="分组已确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="w69S-txHBqApJlsxk6LM-66" vertex="1">
           <mxGeometry y="20" width="670" height="832" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-68" value="分组未确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#D6BC15;" vertex="1" parent="w69S-txHBqApJlsxk6LM-66">
+        <mxCell id="w69S-txHBqApJlsxk6LM-68" value="分组未确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#D6BC15;" parent="w69S-txHBqApJlsxk6LM-66" vertex="1">
           <mxGeometry x="670" y="20" width="700" height="832" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-73" value="未确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#D6BC15;" vertex="1" parent="w69S-txHBqApJlsxk6LM-66">
+        <mxCell id="w69S-txHBqApJlsxk6LM-73" value="未确认" style="swimlane;startSize=20;html=1;fillColor=#fff2cc;strokeColor=#D6BC15;" parent="w69S-txHBqApJlsxk6LM-66" vertex="1">
           <mxGeometry x="1370" y="20" width="380" height="832" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="w69S-txHBqApJlsxk6LM-73" source="w69S-txHBqApJlsxk6LM-74" target="w69S-txHBqApJlsxk6LM-75">
+        <mxCell id="w69S-txHBqApJlsxk6LM-76" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="w69S-txHBqApJlsxk6LM-73" source="w69S-txHBqApJlsxk6LM-74" target="w69S-txHBqApJlsxk6LM-75" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-74" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;将未关联的流水全部查出&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="w69S-txHBqApJlsxk6LM-73">
+        <mxCell id="w69S-txHBqApJlsxk6LM-74" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;将未关联的流水全部查出&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="w69S-txHBqApJlsxk6LM-73" vertex="1">
           <mxGeometry x="125" y="67" width="130" height="63" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="w69S-txHBqApJlsxk6LM-73" source="w69S-txHBqApJlsxk6LM-75" target="w69S-txHBqApJlsxk6LM-77">
+        <mxCell id="w69S-txHBqApJlsxk6LM-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="w69S-txHBqApJlsxk6LM-73" source="w69S-txHBqApJlsxk6LM-75" target="w69S-txHBqApJlsxk6LM-77" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-75" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;放到未确认流水表里&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="w69S-txHBqApJlsxk6LM-73">
+        <mxCell id="w69S-txHBqApJlsxk6LM-75" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;放到未确认流水表里&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="w69S-txHBqApJlsxk6LM-73" vertex="1">
           <mxGeometry x="130" y="211.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="w69S-txHBqApJlsxk6LM-73" source="w69S-txHBqApJlsxk6LM-77" target="w69S-txHBqApJlsxk6LM-79">
+        <mxCell id="w69S-txHBqApJlsxk6LM-80" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="w69S-txHBqApJlsxk6LM-73" source="w69S-txHBqApJlsxk6LM-77" target="w69S-txHBqApJlsxk6LM-79" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-77" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;将未关联的序时账全部查出&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="w69S-txHBqApJlsxk6LM-73">
+        <mxCell id="w69S-txHBqApJlsxk6LM-77" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;将未关联的序时账全部查出&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="w69S-txHBqApJlsxk6LM-73" vertex="1">
           <mxGeometry x="130" y="351.5" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w69S-txHBqApJlsxk6LM-79" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;放到未确认序时账表里&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="w69S-txHBqApJlsxk6LM-73">
+        <mxCell id="w69S-txHBqApJlsxk6LM-79" value="&lt;div class=&quot;lake-content&quot;&gt;&lt;span style=&quot;font-size: 16px&quot; class=&quot;ne-text&quot;&gt;放到未确认序时账表里&lt;/span&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" parent="w69S-txHBqApJlsxk6LM-73" vertex="1">
           <mxGeometry x="130" y="491.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
